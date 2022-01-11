@@ -497,13 +497,7 @@ main{
     color: black;
     font-family: 'DM Sans', sans-serif;
 }
-.plan-card--ca span{
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    background-image:url('./assets/icons/orange-right-arrow.svg');
-    vertical-align: text-bottom;
-}
+
 .recomended2{
     position: absolute;
     width: 120px;
